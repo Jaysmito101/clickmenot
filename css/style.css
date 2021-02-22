@@ -1,0 +1,32 @@
+		body{
+			background-color: rgba(0, 0, 0, 0.9);
+		}
+		h1{
+			font-family: "Arial";
+			color: rgba(255, 255, 255, 0.6);
+		}
+		button{
+			font-family: "Arial";
+			font-size: 20px;
+			font-weight: 900;
+			outline: none;
+			width: 160px;
+			height: 80px;
+			border-radius: 5px;
+			border-width: 1px;
+			border-color: #111;
+			cursor: pointer;
+			position: absolute;
+			overflow: hidden;
+		}
+
+		i{
+			color: rgba(252, 186, 3, 1)
+		}
+
+		button:hover{
+			transform: scale(1.2);
+		}
+		address{
+			color: rgba(255, 255, 255, 0.6);
+		}
