@@ -1,6 +1,6 @@
 # clickmenot. 
 
-![Ansible Quality Score](https://img.shields.io/ansible/quality/432)
+![Ansible Quality Score](https://img.shields.io/ansible/quality/432) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Jaysmito101/clickmenot)
 
 Fun Clicker Game To Challenge Friends
 
